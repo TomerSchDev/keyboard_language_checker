@@ -1,1 +1,2 @@
 pynput==1.7.6
+langdetect==1.0.9
